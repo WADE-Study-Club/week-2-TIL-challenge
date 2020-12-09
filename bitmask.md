@@ -117,8 +117,6 @@ i 를 **토글 (xor)**
 
 \- 상태 다이나믹을 할 때 자주 사용하게 된다.
 
-[##_Image|kage@brs8gg/btqPyqCCrnF/M4tQgMiCHaCCKo5ix4dRlk/img.png|alignCenter|data-filename="캡처.PNG" data-origin-width="768" data-origin-height="677" data-ke-mobilestyle="widthContent"|https://wogud6792.tistory.com/63||_##]
-
 ---
 
 \# 연습문제 BOJ
